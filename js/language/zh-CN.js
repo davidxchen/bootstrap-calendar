@@ -20,7 +20,7 @@ window.calendar_languages['zh-CN'] = {
 	all_day:     '整天',
 	time:        '时间',
 	events:      '发展',
-	before_time: '时间前结束带',
+	before_time: '时间线前结束带',
 	after_time:  '临时磁带结束后，',
 
 	m0:  '1 月',
